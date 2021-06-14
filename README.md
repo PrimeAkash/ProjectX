@@ -12,3 +12,11 @@ Educational Purpose Only
 https://t.me/PrimeAkash
 
 
+
+# Credentials
+
+Username: PrimeAkash
+
+Password: Aa1234567890
+
+
